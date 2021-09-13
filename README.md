@@ -1,4 +1,4 @@
-#omdb-api 
+Search movies by its name
 
-
-https://movie-poster-app.vercel.app/
+Feel free to check this link Deployed in vercel
+https://movieapp-commingsoon.vercel.app/
