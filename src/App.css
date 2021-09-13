@@ -1,0 +1,17 @@
+img {
+  height: 150px;
+  object-fit: contain;
+}
+
+
+.box > h1 {
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.boxs {
+  background: #181818;
+  border: 1px solid #cccccc ;
+  border-radius: 5px;
+  padding: 20px;
+}
